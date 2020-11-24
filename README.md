@@ -1,1 +1,1 @@
-# LATEX_BASIC
+# LaTeX Basic Project
